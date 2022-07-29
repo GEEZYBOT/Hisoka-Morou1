@@ -1,7 +1,7 @@
 /**
    * Create By Geezy
    * Contact Me on wa.me/6289529904752
-   * Follow https://github.com/DikaArdnt
+   * Follow tiktok.com/@geezytripleseven
 */
 
 const fs = require('fs')
